@@ -13,7 +13,7 @@ package
 	import surf.SurfDescriptor;
 	
 	/**
-	 * @author Samuel Girardin
+	 * @author Samuel Girardin __1
 	 */
 	
 	[SWF(width='800',height='900',frameRate='60',backgroundColor='0xFFFFFF')]
